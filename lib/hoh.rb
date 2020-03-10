@@ -62,6 +62,5 @@ def naming_system
        }
      }
    }
-  }
   return biology
 end
